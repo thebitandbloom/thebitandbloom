@@ -1,6 +1,6 @@
 # Bit & Bloom | Engineering & Design Lab
 
-### Where bit precision bloom organic business growth.
+### Where bit precision blooms organic business growth.
 
 ---
 
