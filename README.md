@@ -27,7 +27,7 @@ Specializing in **Boutique Digital Experiences**, we provide a premium alternati
 
 ---
 
-## Infinity scroll showcase
+## Infinite scroll showcase
 
 <p align="center">
   <img src="./assets/showcase-with-reverse.gif" width="100%" alt="Bit & Bloom Showcase">
